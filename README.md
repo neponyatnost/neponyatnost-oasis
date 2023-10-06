@@ -1,3 +1,5 @@
+Link to preview - https://neponyatnost-oasis.netlify.app/
+
 "Oasis" is a cutting-edge web application powered by a robust stack of modern technologies, including React, TypeScript, and various libraries such as Supabase for backend support and React Query for efficient data fetching. This private project embraces the power of React's component-based architecture along with the flexibility of styled-components for creating visually stunning user interfaces. It also leverages popular libraries like Recharts for data visualization and React Router for seamless navigation.
 
 With the help of React Hook Form, managing forms becomes a breeze, and UUID ensures unique identification throughout the application. Error handling is made elegant and user-friendly thanks to React Error Boundary. Additionally, the app is equipped with React Hot Toast for unobtrusive notifications.
