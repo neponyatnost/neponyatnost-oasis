@@ -1,4 +1,4 @@
-Link to preview - <a href="[http://example.com/](https://neponyatnost-oasis.netlify.app/)" target="_blank">Click!</a>
+Link to preview - <a href="https://neponyatnost-oasis.netlify.app/" target="_blank">Click!</a>
 
 "Oasis" is a cutting-edge web application powered by a robust stack of modern technologies, including React, TypeScript, and various libraries such as Supabase for backend support and React Query for efficient data fetching. This private project embraces the power of React's component-based architecture along with the flexibility of styled-components for creating visually stunning user interfaces. It also leverages popular libraries like Recharts for data visualization and React Router for seamless navigation.
 
